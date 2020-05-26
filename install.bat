@@ -75,3 +75,37 @@ if %ERRORLEVEL% EQU 0 Echo Terminal installed successfully.   %ERRORLEVEL%
 REM Whatsapp
 winget install Whatsapp.Whatsapp
 if %ERRORLEVEL% EQU 0 Echo Terminal installed successfully.   %ERRORLEVEL%
+
+REM Etcher
+winget install Balena.Etecher
+if %ERRORLEVEL% EQU 0 Echo Balena.Etcher installed successfully.   %ERRORLEVEL%
+
+REM MiKTeX
+winget install ChristianSchenk.MiKTeX
+if %ERRORLEVEL% EQU 0 Echo MiKTeX installed successfully.   %ERRORLEVEL%
+
+REM EpicGamesLauncher
+winget install EpicGames.EpicGamesLauncher
+if %ERRORLEVEL% EQU 0 Echo Balena.Etcher installed successfully.   %ERRORLEVEL%
+
+REM GnuWin32
+winget install GnuWin32.MakeforWindows
+if %ERRORLEVEL% EQU 0 Echo GnuWin32 installed successfully.   %ERRORLEVEL%
+
+REM Putty
+winget install Putty.Putty
+if %ERRORLEVEL% EQU 0 Echo Putty installed successfully.   %ERRORLEVEL%
+
+REM Rufus
+winget install Rufus.Rufus
+if %ERRORLEVEL% EQU 0 Echo Rufus installed successfully.   %ERRORLEVEL%
+
+REM WinSCP
+winget install WinSCP.WinSCP
+if %ERRORLEVEL% EQU 0 Echo WinSCP installed successfully.   %ERRORLEVEL%
+
+
+
+
+
+
